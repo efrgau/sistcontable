@@ -1,6 +1,4 @@
 import React,{Component} from 'react'
-import { Container, Card, CardBody, Row, Col } from 'reactstrap'
-
 import WelcomeComp from './WelcomeComp'
 import Sidebar from "./SideBar"
 
@@ -18,6 +16,7 @@ class Dashboard extends Component {
                 <Sidebar />
                 </header>
                 <body>
+                <div>Demo es el ejemplo</div>
                 <WelcomeComp />
                 </body>
             </React.Fragment>
