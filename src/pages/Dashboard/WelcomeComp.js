@@ -1,5 +1,4 @@
 import React,{Component} from 'react'
-import { Container, Card, CardBody, Row, Col } from 'reactstrap'
 
 
 class WelcomeComp extends Component {
